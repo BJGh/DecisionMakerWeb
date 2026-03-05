@@ -20,3 +20,5 @@ You can deploy this project for production with docker-compose:
 ### `docker-compose -d up`
 
 When the container is running, service is available at [http://localhost:80](http://localhost:80)
+
+НУ ХОТЯ БЫ PAL, Я ЗНАЮ ЧТО ЭТО РАБОТАЕТ
